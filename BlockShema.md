@@ -1,0 +1,2 @@
+![картинка](BlockShema.png)
+
